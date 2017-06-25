@@ -23,6 +23,6 @@ label {
   display: none;
 }
 
-.text-report dt:after {
+.js-text-report dt:after {
   content: ": ";
 }
